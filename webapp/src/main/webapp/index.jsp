@@ -1,2 +1,2 @@
-<h1> Hello Dear Students !! Welcome to DevOps Project-2 !! </h1>
-<h2> By Mr. Sai from Saidemy--kancherla Rajesh </h2>
+<h1> This is sample code for DevOps Project !! </h1>
+<h2> By kancherla Rajesh </h2>
